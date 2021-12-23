@@ -1,0 +1,1 @@
+var json_Placadeidentificacin_8 = {"type":"FeatureCollection","name":"Placadeidentificacin_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"photo":"D:\\Dolores\\Memoria Fotografica\\Placa.jpeg"},"geometry":{"type":"Point","coordinates":[-102.499973702000403,20.803564060982517]}}]}
